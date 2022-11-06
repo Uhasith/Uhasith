@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and Laravel**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **uhasith5@gmail.com**
 
