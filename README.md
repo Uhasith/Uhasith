@@ -1,6 +1,6 @@
 ### Hello, I'm Hasith ✌️
 
-Laravel/Vue/React Fullstack developer from Srilanka 🇱🇰
+Laravel, Filament, Livewire, Vue, React, Inertia => Fullstack developer from Srilanka 🇱🇰
 
 ## 👉 Tech Stack
 
