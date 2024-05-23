@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 
-[![Mail](https://img.shields.io/badge/leandrocfe@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uhasith5@gmail.com)
+[![Mail](https://img.shields.io/badge/uhasith5@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uhasith5@gmail.com)
 
 [![Linkedin: oleandroferreira](https://img.shields.io/badge/-Hasith%20Udayanga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasith-udayanga)](https://www.linkedin.com/in/hasith-udayanga/)
 
