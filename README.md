@@ -1,6 +1,6 @@
 ### Hello, I'm Hasith ✌️
 
-PHP/Laravel developer from Srilanka 🇱🇰
+Laravel/Vue/React Fullstack developer from Srilanka 🇱🇰
 
 ## 👉 Tech Stack
 
@@ -14,6 +14,10 @@ Here are a few things I've picked up along my learning journey.
 ![AlpineJs](https://img.shields.io/badge/AlpineJs-77c1d2?style=for-the-badge&logo=javascript&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+
 
 ## 📫 Get in touch
 
